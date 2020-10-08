@@ -1,0 +1,76 @@
+body {
+  background-color: hsl(0, 0%, 100%);
+  margin: 0;
+  padding: 5% 10% 0;
+  font-family: "Spartan", sans-serif;
+  color: hsl(303, 10%, 53%);
+  font-size: 15px;
+}
+h1 {
+  color: hsl(300, 43%, 22%);
+  font-weight: 900;
+  width: 80%;
+  margin-bottom: 10px;
+  font-size: 40px;
+}
+h6 {
+  font-weight: 700;
+}
+.jumbotron {
+  background-color: hsl(300, 43%, 22%);
+  padding: 10% 20% 5% 10%;
+  border-radius: 10px;
+}
+.jumboName {
+  color: white;
+  font-weight: 300;
+  font-size: 15px;
+  margin-top: 5px;
+}
+img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  float: left;
+}
+.jumboParagraph{
+  clear: left;
+  color: hsl(0, 0%, 100%);
+  padding-right: 0;
+}
+.rated-review {
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  padding-left: 9px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 70%;
+}
+.stars-review {
+  color: hsl(300, 43%, 22%);
+  position: relative;
+  width: 40%;
+  /* background-color: greenyellow; */
+  left: 100px;
+  bottom: 60px;
+  /* margin: 50px 0px 1000px 0px; */
+  display: inline-block;
+}
+.summary-paragraph {
+  margin: 0;
+  font-size: 15px;
+  width: 70%;
+  line-height: 2;
+}
+.text-area {
+  width: 40%;
+  display: inline-block;
+  /* background-color: red; */
+}
+.top-container {
+  position: relative;
+  /* background-color: aquamarine; */
+  padding: 5% 10% 5% 10%;
+}
